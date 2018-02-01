@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/node_modules/react-native/third-party/folly-2016.09.26.00/folly/Unicode.cpp \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Unicode.h
+  /Users/user/Developer/audionowdigital/Licenta/node_modules/react-native/third-party/folly-2016.09.26.00/folly/Unicode.cpp \
+  /Users/user/Developer/audionowdigital/Licenta/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Unicode.h

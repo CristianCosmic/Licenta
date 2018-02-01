@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/LicentaCosmic/main.m \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/LicentaCosmic/AppDelegate.h
+  /Users/user/Developer/audionowdigital/Licenta/ios/LicentaCosmic/main.m \
+  /Users/user/Developer/audionowdigital/Licenta/ios/LicentaCosmic/AppDelegate.h

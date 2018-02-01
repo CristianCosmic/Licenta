@@ -5,12 +5,13 @@ import{
 	NEWS_NOT_FOUND,
 } from './types';
 
-const getNews = (dispatch)=>{
-    const apiURL =`https://api.rss2json.com/v1/api.json?rss_url=https://www.pressalert.ro/feed/`
+export const getNews = ()=>{
+    const apiURL =`https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.pressalert.ro%2Ffeed%2F`
+	return dispatch => {
 	dispatch({ type: NEWS_RETRIEVAL_START });
     fetch(apiURL,{
         method:'GET'
-    }
+    })
     .then(response =>
     response.json().then(responseJson => {
 				console.log('response COs', responseJson);
@@ -22,9 +23,10 @@ const getNews = (dispatch)=>{
 						}
 					});
 				} else {
-					dispatch({ type: NEWS_NOT_FOUND });
+					dispatch({ type: NEWS_NOT_FOUND, payload: {}});
 				}
 			})
 		)
-		);
+		
+	}
 };

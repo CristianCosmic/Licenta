@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKShareHelper.m \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKShareHelper.h \
+  /Users/user/Developer/audionowdigital/Licenta/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKShareHelper.m \
+  /Users/user/Developer/audionowdigital/Licenta/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKShareHelper.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Modules/module.modulemap \
   /Users/user/Documents/FacebookSDK/FBSDKCoreKit.framework/Modules/module.modulemap \
   /Users/user/Documents/FacebookSDK/Bolts.framework/Modules/module.modulemap \

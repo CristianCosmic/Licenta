@@ -1,40 +1,35 @@
 import React, { Component } from 'react';
 import { View, Text, Image, TouchableOpacity } from 'react-native';
-import Header from './Header';
+import Header from './common/Header';
+import { connect } from 'react-redux';
 import { Actions } from 'react-native-router-flux';
-import HTMLView from 'react-native-htmlview';
 
 
 
 class NewsCard extends Component {
 
-    constructor(props) {
-        super(props)
-        console.log(props)
-        this.state = {
-            title: props.item.title,
-            description: props.item.description,
-            image: props.item.enclosure.link
-        }
-    }
 
     render() {
         const { cardView, textZoneView, titleText, descriptionText } = styles
+        console.log('ce vine din ', this.props);
+        const { title, description, enclosure, link } = this.props.item;
+        console.log('link spre poza ', enclosure);
 
-        desc = this.state.description
+        desc = description
             .replace(new RegExp('<p>', 'g'), '')
             .replace(new RegExp('</p>', 'g'), '')
             .replace(new RegExp('\n', 'g'), '')
             ;
 
+
         return (
 
-            <TouchableOpacity style={cardView} onPress={() => Actions.NewsDetail()}>
-                <Image style={{ height: 90, width: 120 }} source={{ uri: this.state.image }} />
+            <TouchableOpacity style={cardView} onPress={() => Actions.NewsDetail({ item: this.props.item })} activeOpacity={1}>
+                <Image style={{ marginTop:15,height: 120, width: 120 }} source={{ uri: enclosure.link }} />
                 <View style={textZoneView}>
-                    <Text numberOfLines={2} style={titleText}>{this.state.title}
+                    <Text numberOfLines={3} style={titleText}>{title}
                     </Text>
-                    <Text numberOfLines={4} style={descriptionText}>{desc}</Text>
+                    <Text numberOfLines={5} style={descriptionText}>{desc}</Text>
                 </View>
             </TouchableOpacity>
         );
@@ -43,18 +38,25 @@ class NewsCard extends Component {
 
 const styles = {
     cardView: {
-        height: 100,
+        height: 150,
         borderBottomColor: 'grey',
         borderBottomWidth: 0.3,
         alignSelf: 'center',
         flexDirection: 'row',
         backgroundColor: '#f5f5f5',
-        margin: 5,
+        marginTop: 5,
+        marginLeft: 15,
+        marginRight: 15,
+        marginBottom: 5,
         paddingBottom: 20
     },
     textZoneView: {
         flexDirection: 'column',
-        flex: 1
+        flex: 1,
+        marginTop:10,
+        marginLeft: 10,
+        marginRight: 10,
+        marginBottom:5
     },
     titleText: {
         color: '#000000',
@@ -63,10 +65,11 @@ const styles = {
         marginLeft: 5,
     },
     descriptionText: {
-        color: 'red',
-        fontSize: 10,
+        color: 'grey',
+        fontSize: 12,
         marginTop: 5,
         marginLeft: 5,
+        marginBottom:50
     },
 }
 

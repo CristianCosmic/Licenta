@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		XDKMmDGMvDCNx2XBMY2eJ9igIVI=
+		e744JVp7zEAeqYo7ZxALmrf9O0g=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -51,7 +51,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CX+n/rGa6p3orEm9hLx3AJyku8U=
+		jQEQLur51aABTidbTgYlzM+DdMU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -63,19 +63,19 @@
 		</data>
 		<key>PlugIns/LicentaCosmicTests.xctest.dSYM/Contents/Resources/DWARF/LicentaCosmicTests</key>
 		<data>
-		EMnl1wBgfyXNU2pkNCOy7ly4XhA=
+		rp4SQwU/5brl6eg9NS3mgVSOOEw=
 		</data>
 		<key>PlugIns/LicentaCosmicTests.xctest/Info.plist</key>
 		<data>
-		rSM6BmlkfJKRUWTL1Xvk146Qjrk=
+		bGVtXS+WzlkSihBw/D0rc/xcWeo=
 		</data>
 		<key>PlugIns/LicentaCosmicTests.xctest/LicentaCosmicTests</key>
 		<data>
-		QdjxJySv9eobB446ikfpOArD0WQ=
+		ymYCeJV7HppgXsMRjbH2autRPvw=
 		</data>
 		<key>PlugIns/LicentaCosmicTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		rXwf/y3NM/Cdu+/e7Cu0PhX3KRM=
+		b+K5T1kgiQsQaHrp19s+gkrTioY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XDKMmDGMvDCNx2XBMY2eJ9igIVI=
+			e744JVp7zEAeqYo7ZxALmrf9O0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			YuYGGfuLVvWqlQdTLwVPMGfeLEmMfBruU71Ntu8SxD4=
+			jHiEj/yCzBZgYXfCNfJWiDKs1cuPXhRExqG3w0t0WCA=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -207,44 +207,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EMnl1wBgfyXNU2pkNCOy7ly4XhA=
+			rp4SQwU/5brl6eg9NS3mgVSOOEw=
 			</data>
 			<key>hash2</key>
 			<data>
-			TcxV5GcaqH8qiGUmeCqJtKOqFi+eSaMW4mn7puSwnt8=
+			p/MHTfl9s6tjBWOMxZCXJisye/nj7zm6EyhoF2uH4Yo=
 			</data>
 		</dict>
 		<key>PlugIns/LicentaCosmicTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rSM6BmlkfJKRUWTL1Xvk146Qjrk=
+			bGVtXS+WzlkSihBw/D0rc/xcWeo=
 			</data>
 			<key>hash2</key>
 			<data>
-			cVi39w6+piCRoYm5XZ3ze/qObnkntL+ngRnLB1UTad8=
+			Go0Mz93lQk29++zrGolTqPDy9yQywd9xXd4P1ND8VhM=
 			</data>
 		</dict>
 		<key>PlugIns/LicentaCosmicTests.xctest/LicentaCosmicTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QdjxJySv9eobB446ikfpOArD0WQ=
+			ymYCeJV7HppgXsMRjbH2autRPvw=
 			</data>
 			<key>hash2</key>
 			<data>
-			mz0rj0W32lqSDvWhjjrPRMvMxirfUqT/S/BL1mAJHb8=
+			RDNbrpCCx51kO20kzYoF4b9G8a666q+E3l2/eaitBgU=
 			</data>
 		</dict>
 		<key>PlugIns/LicentaCosmicTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rXwf/y3NM/Cdu+/e7Cu0PhX3KRM=
+			b+K5T1kgiQsQaHrp19s+gkrTioY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZZR/1SHCfdv82Iir48ye7FmKGp5nOla41Fa1te2R2p0=
+			SqLGx2PV+H5LnXRxghuoBcmaP+rh2ViMAWs6upgtBtk=
 			</data>
 		</dict>
 	</dict>

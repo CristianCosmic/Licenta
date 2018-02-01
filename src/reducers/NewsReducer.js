@@ -12,33 +12,37 @@ const INITIAL_STATE = {
 };
 
 export default (state = INITIAL_STATE, action) => {
+	console.log('action type', action.type);
+	console.log('action payload', action.payload);
+	console.log('......');
+	
 	switch (action.type) {
 		case NEWS_RETRIEVAL_START:
 			return {
 				...state,
 				error: null,
-				poll: null,
+				news: null,
 				loading: true
 			};
 		case NEWS_RETRIEVED_SUCCESS:
 			return {
 				...state,
 				loading: false,
-				eroor: null,
-				poll: action.payload.poll
+				error: null,
+				news: action.payload.news
 			};
 		case NEWS_RETRIEVED_FAILED:
 			return {
 				...state,
 				loading: false,
-				poll: null,
+				news: null,
 				error: action.payload
 			};
 		case NEWS_NOT_FOUND:
 			return {
 				...state,
 				loading: false,
-				poll: null,
+				news: null,
 				error: null
 			};
 		default:

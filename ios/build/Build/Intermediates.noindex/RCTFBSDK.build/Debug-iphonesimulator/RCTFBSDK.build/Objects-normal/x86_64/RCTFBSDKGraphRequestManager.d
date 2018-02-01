@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKGraphRequestManager.m \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKGraphRequestManager.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/user/Developer/audionowdigital/Licenta/node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKGraphRequestManager.m \
+  /Users/user/Developer/audionowdigital/Licenta/node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKGraphRequestManager.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
   /Users/user/Documents/FacebookSDK/FBSDKCoreKit.framework/Modules/module.modulemap \
   /Users/user/Documents/FacebookSDK/Bolts.framework/Modules/module.modulemap \
   /Users/user/Documents/FacebookSDK/Bolts.framework/Headers/BFWebViewAppLinkResolver.h \
@@ -42,4 +42,4 @@ dependencies: \
   /Users/user/Documents/FacebookSDK/FBSDKCoreKit.framework/Headers/FBSDKCopying.h \
   /Users/user/Documents/FacebookSDK/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h \
   /Users/user/Documents/FacebookSDK/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKGraphRequestConnectionContainer.h
+  /Users/user/Developer/audionowdigital/Licenta/node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKGraphRequestConnectionContainer.h

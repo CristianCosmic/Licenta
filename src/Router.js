@@ -15,13 +15,14 @@ import {
   Overlay,
   Lightbox
 } from 'react-native-router-flux';
-import Header from './components/Header';
+import Header from './components/common/Header';
 import NewsList from './components/NewsList';
 import NewsCard from './components/NewsCard';
 import NewsDetail from './components/NewsDetail';
 import LoginScreen from './components/LoginScreen';
-import Loading from './components/Loading';
-import YouTube from './components/YouTube';
+import Loading from './components/common/Loading';
+import Profile from './components/Profile';
+import TabBar from './components/common/TabBar';
 
 
 const instructions = Platform.select({
@@ -36,18 +37,20 @@ export default class App extends Component<{}> {
     return (
       <Router>
         <Scene key="root">
-          <Scene key="Login" component={LoginScreen}  hideNavBar title="">
+          <Scene key="Login" component={LoginScreen} intial hideNavBar title="" />
+
+          <Scene key="Home" tabs tabBarComponent={TabBar}>
+            <Scene key="NewsList" component={NewsList} hideNavBar title="Stiri" />
+
+           <Scene
+									key="Profile"
+									component={Profile}
+									title="Profil"
+									hideNavBar
+								/>
           </Scene>
-          <Scene key="NewsList" component={NewsList} initial navTransparent={true} title="">
-          </Scene>
-          <Scene
-            key="NewsDetail"
-            component={NewsDetail}
-            navTransparent={true}
-            
-            >
-      
-          </Scene>
+          <Scene key="NewsDetail" component={NewsDetail} navTransparent={true} />
+
         </Scene>
       </Router>
     );

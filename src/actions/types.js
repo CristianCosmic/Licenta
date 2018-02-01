@@ -1,3 +1,10 @@
 export const NEWS_RETRIEVED_SUCCESS = 'news_retrieved_success';
 export const NEWS_RETRIEVED_FAILED = 'news_retrieved_failed';
+export const NEWS_RETRIEVAL_START = 'news_retrieval_start';
 export const NEWS_NOT_FOUND = 'news_not_found';
+export const LOGIN_SUCCESS = 'login_success';
+export const RETREIVAL_SUCCESS ='retreival_success';
+export const WEATHER_RETRIEVED_SUCCESS = 'weather_retrieved_success';
+export const WEATHER_RETRIEVED_FAILED = 'weather_retrieved_failed';
+export const WEATHER_RETRIEVAL_START = 'weather_retrieval_start';
+export const WEATHER_NOT_FOUND = 'weather_not_found';

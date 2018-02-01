@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKMessageDialog.m \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKMessageDialog.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/user/Developer/audionowdigital/Licenta/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKMessageDialog.m \
+  /Users/user/Developer/audionowdigital/Licenta/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKMessageDialog.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Modules/module.modulemap \
   /Users/user/Documents/FacebookSDK/FBSDKCoreKit.framework/Modules/module.modulemap \
   /Users/user/Documents/FacebookSDK/Bolts.framework/Modules/module.modulemap \
@@ -79,15 +79,15 @@ dependencies: \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareAPI.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKHashtag.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareKit.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTConvert+FBSDKSharingContent.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/user/Developer/audionowdigital/Licenta/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTConvert+FBSDKSharingContent.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/user/Developer/audionowdigital/Licenta/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
