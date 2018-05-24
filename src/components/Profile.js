@@ -38,7 +38,6 @@ class Profile extends Component {
         if (count > 40 ){
             return '5'
         }
-         return '1'
     }
     }
 
@@ -47,7 +46,6 @@ class Profile extends Component {
         const { profileImage, rootView, nameText, postsRead, nameView } = styles
         const { name, image, birthday } = this.user
         const { count } = this.props
-        console.log('user123', this.user);
 
         return (
             <View style={{ flex: 1 }}>
