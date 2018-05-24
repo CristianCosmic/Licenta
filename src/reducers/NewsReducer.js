@@ -8,15 +8,13 @@ import {
 const INITIAL_STATE = {
 	news: {},
 	loading: true,
-	error: ''
+	error: '',
+	
 };
 
 export default (state = INITIAL_STATE, action) => {
-	console.log('action type', action.type);
-	console.log('action payload', action.payload);
-	console.log('......');
-	
 	switch (action.type) {
+		
 		case NEWS_RETRIEVAL_START:
 			return {
 				...state,

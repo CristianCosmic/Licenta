@@ -23,6 +23,8 @@ import LoginScreen from './components/LoginScreen';
 import Loading from './components/common/Loading';
 import Profile from './components/Profile';
 import TabBar from './components/common/TabBar';
+import WeatherWidget from './components/WeatherWidget';
+import NewsPaperList from './components/NewsPaperList';
 
 
 const instructions = Platform.select({
@@ -37,11 +39,13 @@ export default class App extends Component<{}> {
     return (
       <Router>
         <Scene key="root">
+           
           <Scene key="Login" component={LoginScreen} intial hideNavBar title="" />
-
+          <Scene key="NewsPaperList" component={NewsPaperList}  hideNavBar title="" />
           <Scene key="Home" tabs tabBarComponent={TabBar}>
-            <Scene key="NewsList" component={NewsList} hideNavBar title="Stiri" />
-
+            <Scene key="NewsList"
+            component={NewsList}   hideNavBar title="" />
+            <Scene key="WeatherWidget" component={WeatherWidget} navTransparent={true} back />
            <Scene
 									key="Profile"
 									component={Profile}
@@ -50,7 +54,7 @@ export default class App extends Component<{}> {
 								/>
           </Scene>
           <Scene key="NewsDetail" component={NewsDetail} navTransparent={true} />
-
+          
         </Scene>
       </Router>
     );

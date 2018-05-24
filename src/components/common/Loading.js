@@ -15,7 +15,8 @@ const styles = {
 	loadingStyle: {
 		alignItems: 'center',
 		justifyContent: 'center',
-		flex: 1
+		flex: 1,
+		backgroundColor:'transparent'
 	}
 };
 export default Loading ;

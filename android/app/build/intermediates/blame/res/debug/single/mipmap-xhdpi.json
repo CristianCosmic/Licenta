@@ -2,5 +2,9 @@
     {
         "merged": "/Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/user/Developer/audionowdigital/ReactNativeProd/LicentaCosmic/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/user/Developer/audionowdigital/Licenta/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]

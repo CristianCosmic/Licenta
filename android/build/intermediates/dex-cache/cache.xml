@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.30.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="821200fa3e07f93d0ae66e4a5917db8bac69dfe1">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-places-4.30.0_8ba792eac70b056dd442c2342dd44049747cf49c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_7b24913ba5483dbe2b6ca0603a5a711ba7c7566a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.2_87556c1f14baeddcdbcb8003a5c85456bf275022.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/common-1.0.3_4be6b85e9cfec21297a276e0129e59d0473ea6b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.0.2_81855cfcd6bcd4cca02767760fae08efd8cb655b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-27.0.2_8fe9eb7de3fa05caaf15ecf4ea28e94c65db670e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/LicentaCosmic/react-native-youtube/unspecified/jars/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a62cbd1027677c96026b383de62307faa6a4da8f">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_14913c7fb53d952451454c5bf53d2cb54f3b6e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_dacd485f1e0930cd6d7e0cdf9e9ee5e4c28f0e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.30.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.30.0_06a1941561ad913361c16347821ce8152ae1f585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_5d84f80279fa6324477ffefcce6acc8e4a974b8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/LicentaCosmic/react-native-admob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="799a39378260add967bd2612779b753e66a94737">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/LicentaCosmic-react-native-admob-unspecified_971598841777bb36132a04d4e5c57637996cddce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.2_87da6a7f782dc4ee18599a340858fde0c08fcb67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_259de9e9824e1af697dc5d7e84f07119dc90ae21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_97be1f4a59411239dae09222baefacfab25a0454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/LicentaCosmic/react-native-youtube/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4128b63b44ca334c6f6ff32b620b426b480f739d">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/LicentaCosmic-react-native-youtube-unspecified_b961615efec3081cec596fe6a42505176393b103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/LicentaCosmic/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a8fddee544499551c2cda1ac5c8cdadeb27b206">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/LicentaCosmic-react-native-fbsdk-unspecified_d087ed68be0e605e79a0b5f450ce561a89b3ad49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/core-3.3.0_c700fe601379a4587033b11583f086ee460b563d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.30.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-share-4.30.0_b19009ec5c748bfbbbcb2d7061d5ebec2dee4223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.0.2_1ec19dcc678e24984774743c6d7f64cafcb4d219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-11.8.0_216837bc0db0dc5f65a8caa1c9c5cb6d4b33ea1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.30.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-applinks-4.30.0_0e2af3fd7a5aeec9bec176391062abf8747831d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-11.8.0_5cd8e3f14731c014c4bc49e614f656b533e9d486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.30.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fb648e3321f9556ac5b36485b0028f455350c4a">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-core-4.30.0_bce7d11873df5b1303bcb03afa100ba567edf17d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.0.2_1adde02689d0582c50708f806f9b6e3b70b19f1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.4_6b82d799009d0b44507b86402e05213df07e6160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-27.0.2_e66587c00af9a9aa97fc8493fbf967dbafb676ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.0.2_2fedf7b54dd7a1e2e36e5a2e732aa53285151424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_d41aa1b281cec5288e1c3180eff6e120b651d83f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-27.0.2_148ce3c9c3985a5443156212dce7ecde9f790249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_25d0f97b473d07cfb98bf8e681aa5e04c35de3c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_e78395b21580967b840472fcd2206b415074b0e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d12f976fd1c4a9d82524b6bc5e81a141b01466ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_8e748ee1a89df5dddbeb2e6d52611b95c3eda0cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_c687e132fae0d8a5b8901112d6080a3d73f1f8ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_d8296aab1584379db8264f374de76d5b6fdcbd1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.0.2_6d7bc3c9b8f3b405e24e15907bd09c348a04db9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_767bd6ff453233f1c016c4951d3b5990f37db968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ec270c83b2a58f4fff3ec9f2551569a59b9b36ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.3_fb433d61c8e0f1fca8eaccf63b970f72fb53d488.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.8.0_2d0e653b6c2d67f76f02f0b66ff39f38d5b07774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-login-4.30.0_50b4c19420fa752b0e9eca9b7f4c547e4fd3c2c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_bd7ae7117132c15a23e1ebb2685425654d19f7c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/LicentaCosmic/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2dc548cfd5edba58b8639fb9bd160fdb374115b6">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/LicentaCosmic-react-native-linear-gradient-unspecified_45bbd0d19ea9ddf5e3429e7d1936df85fd248f8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_baa36f4ffd7af970169230aff258e9e9e7d46760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-11.8.0_0f66c517be17adef8a54341b9a02c8507e0109c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e897bf9d5ff0bd5b860d2ea451211537a2ba35fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.30.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-messenger-4.30.0_abb8ab7c8199ac65ef0582858293e80184040305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5e96ec4b92eb84afbfa58f3c7dac6db8dfbebace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_33edca0beff31716a0f5cba57d534dbe58f30d41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.30.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3b8ecc558c6deeb90eb3934c1c715128ab26dcd">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-common-4.30.0_d31fcffc8e5bf1bf3760aa3dc7f93b2a8422ecd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_4caca4e59dae6d24a3b57323739b840acae17792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/LicentaCosmic/react-native-keep-awake/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="293d99cf16f565a043cb6f8d6cf1a7865fc61fea">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/LicentaCosmic-react-native-keep-awake-unspecified_28a86b2711bd6f9da4c4fac197f2131a9571ad22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/LicentaCosmic/react-native-orientation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc11e94900773c70cd9ff18034ade61aa089f436">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/LicentaCosmic-react-native-orientation-unspecified_0367ae1f7fd607ea4b93e70adeec4745b97beec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-27.0.2_43a25abf9b0921a22089eb1b497463a9600bc8c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/LicentaCosmic/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/LicentaCosmic-react-native-vector-icons-unspecified_b6e2cc5dd47460f884c0c56d102724cbc1a2aafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/exploded-aar/LicentaCosmic/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="891759e90a19f234f523d59941e51cf7b6006a75">
+        <dex dex="/Users/user/Developer/audionowdigital/Licenta/android/app/build/intermediates/pre-dexed/debug/LicentaCosmic-react-native-video-unspecified_0753aaa15948ca21b1f5e02d697fcb73d2e14f03.jar" />
+    </item>
+
+</items>

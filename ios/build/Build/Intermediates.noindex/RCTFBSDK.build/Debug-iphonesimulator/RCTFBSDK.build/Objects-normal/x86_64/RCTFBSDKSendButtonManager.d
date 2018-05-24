@@ -64,7 +64,6 @@ dependencies: \
   /Users/user/Documents/FacebookSDK/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h \
   /Users/user/Documents/FacebookSDK/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKSendButton.h \
-  /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareMediaContent.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareDialogMode.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareDialog.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKCameraEffectTextures.h \
@@ -90,6 +89,13 @@ dependencies: \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKSharePhoto.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareOpenGraphContent.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareOpenGraphAction.h \
+  /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareMessengerURLActionButton.h \
+  /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareMessengerOpenGraphMusicTemplateContent.h \
+  /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareMessengerMediaTemplateContent.h \
+  /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareMessengerGenericTemplateElement.h \
+  /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareMessengerGenericTemplateContent.h \
+  /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareMessengerActionButton.h \
+  /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareMediaContent.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareLinkContent.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKShareConstants.h \
   /Users/user/Documents/FacebookSDK/FBSDKShareKit.framework/Headers/FBSDKSharingContent.h \

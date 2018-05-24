@@ -3,25 +3,22 @@ import {
 	WEATHER_RETRIEVED_FAILED,
 	WEATHER_RETRIEVAL_START,
 	WEATHER_NOT_FOUND,
+	WEATHER_CHANGED_NAME
 } from '../actions/types';
 
 const INITIAL_STATE = {
-	weather: {},
+	weatherInfo: null,
 	loading: true,
 	error: ''
 };
 
 export default (state = INITIAL_STATE, action) => {
-	console.log('action type', action.type);
-	console.log('action payload', action.payload);
-	console.log('......');
-	
 	switch (action.type) {
 		case WEATHER_RETRIEVAL_START:
 			return {
 				...state,
 				error: null,
-				weather: null,
+				weatherInfo: null,
 				loading: true
 			};
 		case WEATHER_RETRIEVED_SUCCESS:
@@ -29,21 +26,26 @@ export default (state = INITIAL_STATE, action) => {
 				...state,
 				loading: false,
 				error: null,
-				weather: action.payload.weather
+				weatherInfo: action.payload.weatherInfo
 			};
 		case WEATHER_RETRIEVED_FAILED:
 			return {
 				...state,
 				loading: false,
-				weather: null,
+				weatherInfo: null,
 				error: action.payload
 			};
 		case WEATHER_NOT_FOUND:
 			return {
 				...state,
 				loading: false,
-				weather: null,
+				weatherInfo: null,
 				error: null
+			};
+			case WEATHER_CHANGED_NAME:
+			return {
+				...state,
+				city: action.payload
 			};
 		default:
 			return state;

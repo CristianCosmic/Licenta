@@ -1,0 +1,407 @@
+2018-02-27 15:06:43 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fe745c81ee0; archive(resolved)='<IDEArchive: 0x7fe743961f00>', distributionTask(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreExport: 0x7fe76d0a4750>', team(resolved)='<IDEProvisioningBasicTeam 0x7fe746dd7a10: teamID: 973M7H6VSD, teamName: Haitian American Broadcasting Network>'>
+	Chain (11, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fe745c81ee0; archive = '<IDEArchive: 0x7fe743961f00>', distributionMethod='<IDEDistributionMethodiOSAppStoreExport: 0x7fe76d0a4750>', team='<IDEProvisioningBasicTeam 0x7fe746dd7a10: teamID: 973M7H6VSD, teamName: Haitian American Broadcasting Network>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fe74b73e480; archive = '<IDEArchive: 0x7fe743961f00>', distributionMethod='<IDEDistributionMethodiOSAppStoreExport: 0x7fe76d0a4750>', team='<IDEProvisioningBasicTeam 0x7fe746dd7a10: teamID: 973M7H6VSD, teamName: Haitian American Broadcasting Network>'>
+	<IDEDistributionContext: 0x7fe746d0f780; archive = '<IDEArchive: 0x7fe743961f00>', distributionMethod='<IDEDistributionMethodiOSAppStoreExport: 0x7fe76d0a4750>', team='<IDEProvisioningBasicTeam 0x7fe746dd7a10: teamID: 973M7H6VSD, teamName: Haitian American Broadcasting Network>'>
+	<IDEDistributionContext: 0x7fe745d8e0f0; archive = '<IDEArchive: 0x7fe743961f00>', distributionMethod='<IDEDistributionMethodiOSAppStoreExport: 0x7fe76d0a4750>', team='<IDEProvisioningBasicTeam 0x7fe746dd7a10: teamID: 973M7H6VSD, teamName: Haitian American Broadcasting Network>'>
+	<IDEDistributionContext: 0x7fe745bc91d0; archive = '<IDEArchive: 0x7fe743961f00>', distributionMethod='<IDEDistributionMethodiOSAppStoreExport: 0x7fe76d0a4750>', team='<IDEProvisioningBasicTeam 0x7fe746dd7a10: teamID: 973M7H6VSD, teamName: Haitian American Broadcasting Network>'>
+	<IDEDistributionContext: 0x7fe74797a510; archive = '<IDEArchive: 0x7fe743961f00>', distributionMethod='<IDEDistributionMethodiOSAppStoreExport: 0x7fe76d0a4750>', team='<IDEProvisioningBasicTeam 0x7fe746dd7a10: teamID: 973M7H6VSD, teamName: Haitian American Broadcasting Network>'>
+	<IDEDistributionContext: 0x7fe74789ff40; archive = '<IDEArchive: 0x7fe743961f00>', distributionMethod='<IDEDistributionMethodiOSAppStoreExport: 0x7fe76d0a4750>', team='<IDEProvisioningBasicTeam 0x7fe746dd7a10: teamID: 973M7H6VSD, teamName: Haitian American Broadcasting Network>'>
+	<IDEDistributionContext: 0x7fe743768560; archive = '<IDEArchive: 0x7fe743961f00>', distributionMethod='<IDEDistributionMethodiOSAppStoreExport: 0x7fe76d0a4750>', team='<IDEProvisioningBasicTeam 0x7fe746dd7a10: teamID: 973M7H6VSD, teamName: Haitian American Broadcasting Network>'>
+	<IDEDistributionContext: 0x7fe747ca4480; archive = '<IDEArchive: 0x7fe743961f00>', distributionMethod='<IDEDistributionMethodiOSAppStoreExport: 0x7fe76d0a4750>', team='<IDEProvisioningBasicTeam 0x7fe746dd7a10: teamID: 973M7H6VSD, teamName: Haitian American Broadcasting Network>'>
+	<IDEDistributionContext: 0x7fe7457b8210; archive = '<IDEArchive: 0x7fe743961f00>', distributionMethod='<IDEDistributionMethodiOSAppStoreExport: 0x7fe76d0a4750>', team='(null)'>
+	<IDEDistributionContext: 0x7fe747bf1460; archive = '<IDEArchive: 0x7fe743961f00>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fe745c81ee0>
+2018-02-27 15:06:43 +0000  Processing step: IDEDistributionCreateDestRootStep
+2018-02-27 15:06:43 +0000  Processing step: IDEDistributionCopyItemStep
+2018-02-27 15:06:43 +0000  Running /usr/bin/ditto '-V' '/Users/user/Library/Developer/Xcode/Archives/2018-02-27/LicentaCosmic 27-02-2018, 17.03.xcarchive/Products/Applications/LicentaCosmic.app' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Root/Payload/LicentaCosmic.app'
+2018-02-27 15:06:43 +0000  >>> Copying /Users/user/Library/Developer/Xcode/Archives/2018-02-27/LicentaCosmic 27-02-2018, 17.03.xcarchive/Products/Applications/LicentaCosmic.app 
+2018-02-27 15:06:43 +0000  copying file ./_CodeSignature/CodeResources ... 
+2018-02-27 15:06:43 +0000  18113 bytes for ./_CodeSignature/CodeResources
+2018-02-27 15:06:43 +0000  copying file ./Octicons.ttf ... 
+2018-02-27 15:06:43 +0000  27512 bytes for ./Octicons.ttf
+copying file ./Feather.ttf ... 
+2018-02-27 15:06:43 +0000  55288 bytes for ./Feather.ttf
+copying file ./Entypo.ttf ... 
+2018-02-27 15:06:43 +0000  65584 bytes for ./Entypo.ttf
+2018-02-27 15:06:43 +0000  copying file ./MaterialCommunityIcons.ttf ... 
+2018-02-27 15:06:43 +0000  302940 bytes for ./MaterialCommunityIcons.ttf
+copying file ./LicentaCosmic ... 
+2018-02-27 15:06:43 +0000  9422752 bytes for ./LicentaCosmic
+copying file ./Foundation.ttf ... 
+2018-02-27 15:06:43 +0000  56976 bytes for ./Foundation.ttf
+copying file ./Ionicons.ttf ... 
+2018-02-27 15:06:43 +0000  143936 bytes for ./Ionicons.ttf
+2018-02-27 15:06:43 +0000  copying file ./Base.lproj/LaunchScreen.nib ... 
+2018-02-27 15:06:43 +0000  3108 bytes for ./Base.lproj/LaunchScreen.nib
+2018-02-27 15:06:43 +0000  copying file ./FontAwesome.ttf ... 
+2018-02-27 15:06:43 +0000  165548 bytes for ./FontAwesome.ttf
+copying file ./archived-expanded-entitlements.xcent ... 
+2018-02-27 15:06:43 +0000  372 bytes for ./archived-expanded-entitlements.xcent
+copying file ./Zocial.ttf ... 
+2018-02-27 15:06:43 +0000  25552 bytes for ./Zocial.ttf
+copying file ./main.jsbundle.meta ... 
+2018-02-27 15:06:43 +0000  21 bytes for ./main.jsbundle.meta
+copying file ./EvilIcons.ttf ... 
+2018-02-27 15:06:43 +0000  13128 bytes for ./EvilIcons.ttf
+copying file ./main.jsbundle ... 
+2018-02-27 15:06:43 +0000  964194 bytes for ./main.jsbundle
+2018-02-27 15:06:43 +0000  copying file ./SimpleLineIcons.ttf ... 
+2018-02-27 15:06:43 +0000  54056 bytes for ./SimpleLineIcons.ttf
+copying file ./embedded.mobileprovision ... 
+2018-02-27 15:06:43 +0000  7483 bytes for ./embedded.mobileprovision
+2018-02-27 15:06:43 +0000  copying file ./assets/resources/StarEmpty.png ... 
+2018-02-27 15:06:43 +0000  3994 bytes for ./assets/resources/StarEmpty.png
+copying file ./assets/resources/hungary.png ... 
+2018-02-27 15:06:43 +0000  243 bytes for ./assets/resources/hungary.png
+copying file ./assets/resources/pisces.png ... 
+2018-02-27 15:06:43 +0000  1331 bytes for ./assets/resources/pisces.png
+copying file ./assets/resources/snowflake.png ... 
+2018-02-27 15:06:43 +0000  11230 bytes for ./assets/resources/snowflake.png
+copying file ./assets/resources/newspaper.png ... 
+2018-02-27 15:06:43 +0000  9557 bytes for ./assets/resources/newspaper.png
+copying file ./assets/resources/newsicon.png ... 
+2018-02-27 15:06:43 +0000  3105 bytes for ./assets/resources/newsicon.png
+copying file ./assets/resources/libra.png ... 
+2018-02-27 15:06:43 +0000  1039 bytes for ./assets/resources/libra.png
+copying file ./assets/resources/aries.png ... 
+2018-02-27 15:06:43 +0000  1266 bytes for ./assets/resources/aries.png
+copying file ./assets/resources/StarFull.png ... 
+2018-02-27 15:06:43 +0000  4927 bytes for ./assets/resources/StarFull.png
+copying file ./assets/resources/sagittarius.png ... 
+2018-02-27 15:06:43 +0000  1164 bytes for ./assets/resources/sagittarius.png
+copying file ./assets/resources/leo.png ... 
+2018-02-27 15:06:43 +0000  1483 bytes for ./assets/resources/leo.png
+copying file ./assets/resources/sunrise.png ... 
+2018-02-27 15:06:43 +0000  2540 bytes for ./assets/resources/sunrise.png
+copying file ./assets/resources/aquarius.png ... 
+2018-02-27 15:06:43 +0000  1498 bytes for ./assets/resources/aquarius.png
+copying file ./assets/resources/gemini.png ... 
+2018-02-27 15:06:43 +0000  1090 bytes for ./assets/resources/gemini.png
+copying file ./assets/resources/capricorn.png ... 
+2018-02-27 15:06:43 +0000  1742 bytes for ./assets/resources/capricorn.png
+copying file ./assets/resources/united-kingdom.png ... 
+2018-02-27 15:06:43 +0000  1751 bytes for ./assets/resources/united-kingdom.png
+copying file ./assets/resources/sunCloud.png ... 
+2018-02-27 15:06:43 +0000  7766 bytes for ./assets/resources/sunCloud.png
+copying file ./assets/resources/cancer.png ... 
+2018-02-27 15:06:43 +0000  1437 bytes for ./assets/resources/cancer.png
+copying file ./assets/resources/cloudy.png ... 
+2018-02-27 15:06:43 +0000  3088 bytes for ./assets/resources/cloudy.png
+copying file ./assets/resources/virgo.png ... 
+2018-02-27 15:06:43 +0000  1421 bytes for ./assets/resources/virgo.png
+copying file ./assets/resources/magnifying-glass-icon.png ... 
+2018-02-27 15:06:43 +0000  2726 bytes for ./assets/resources/magnifying-glass-icon.png
+2018-02-27 15:06:43 +0000  copying file ./assets/resources/taurus.png ... 
+2018-02-27 15:06:43 +0000  1367 bytes for ./assets/resources/taurus.png
+2018-02-27 15:06:43 +0000  copying file ./assets/resources/sun.png ... 
+2018-02-27 15:06:43 +0000  4207 bytes for ./assets/resources/sun.png
+copying file ./assets/resources/pressHeader.png ... 
+2018-02-27 15:06:43 +0000  98741 bytes for ./assets/resources/pressHeader.png
+2018-02-27 15:06:43 +0000  copying file ./assets/resources/facebook.png ... 
+2018-02-27 15:06:43 +0000  607 bytes for ./assets/resources/facebook.png
+2018-02-27 15:06:43 +0000  copying file ./assets/resources/scorpio.png ... 
+2018-02-27 15:06:43 +0000  1273 bytes for ./assets/resources/scorpio.png
+2018-02-27 15:06:43 +0000  copying file ./assets/resources/sunset.png ... 
+2018-02-27 15:06:43 +0000  2559 bytes for ./assets/resources/sunset.png
+2018-02-27 15:06:43 +0000  copying file ./assets/resources/european-union.png ... 
+2018-02-27 15:06:43 +0000  861 bytes for ./assets/resources/european-union.png
+copying file ./assets/resources/united-states.png ... 
+2018-02-27 15:06:43 +0000  1268 bytes for ./assets/resources/united-states.png
+2018-02-27 15:06:43 +0000  copying file ./assets/node_modules/react-native-router-flux/images/menu_burger.png ... 
+2018-02-27 15:06:43 +0000  706 bytes for ./assets/node_modules/react-native-router-flux/images/menu_burger.png
+2018-02-27 15:06:43 +0000  copying file ./assets/node_modules/react-native-router-flux/images/back_chevron.png ... 
+2018-02-27 15:06:43 +0000  575 bytes for ./assets/node_modules/react-native-router-flux/images/back_chevron.png
+2018-02-27 15:06:43 +0000  copying file ./assets/node_modules/react-navigation/src/views/assets/back-icon@3x.png ... 
+2018-02-27 15:06:43 +0000  732 bytes for ./assets/node_modules/react-navigation/src/views/assets/back-icon@3x.png
+2018-02-27 15:06:43 +0000  copying file ./assets/node_modules/react-navigation/src/views/assets/back-icon@2x.png ... 
+2018-02-27 15:06:43 +0000  534 bytes for ./assets/node_modules/react-navigation/src/views/assets/back-icon@2x.png
+2018-02-27 15:06:43 +0000  copying file ./assets/node_modules/react-navigation/src/views/assets/back-icon.png ... 
+2018-02-27 15:06:43 +0000  379 bytes for ./assets/node_modules/react-navigation/src/views/assets/back-icon.png
+2018-02-27 15:06:43 +0000  copying file ./Info.plist ... 
+2018-02-27 15:06:43 +0000  1672 bytes for ./Info.plist
+2018-02-27 15:06:43 +0000  copying file ./PkgInfo ... 
+2018-02-27 15:06:43 +0000  8 bytes for ./PkgInfo
+2018-02-27 15:06:43 +0000  copying file ./MaterialIcons.ttf ... 
+2018-02-27 15:06:43 +0000  128180 bytes for ./MaterialIcons.ttf
+2018-02-27 15:06:43 +0000  2018-02-27 15:06:43 +0000  
+
+2018-02-27 15:06:43 +0000  /usr/bin/ditto exited with 0
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  Processing step: IDEDistributionEmbedProfileStep
+2018-02-27 15:06:43 +0000  Processing step: IDEDistributionItemRemovalStep
+2018-02-27 15:06:43 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2018-02-27 15:06:43 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2018-02-27 15:06:43 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2018-02-27 15:06:43 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2018-02-27 15:06:43 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2018-02-27 15:06:43 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2018-02-27 15:06:43 +0000  Processing step: IDEDistributionSymbolsStep
+2018-02-27 15:06:43 +0000  Processing symbols for LicentaCosmic.app
+2018-02-27 15:06:43 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Root/Payload/LicentaCosmic.app' '--link-dest' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Root/Payload' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q'
+2018-02-27 15:06:43 +0000  building file list ... 
+2018-02-27 15:06:43 +0000   0 files...2018-02-27 15:06:43 +0000  67 files to consider
+2018-02-27 15:06:43 +0000  LicentaCosmic.app/
+2018-02-27 15:06:43 +0000  LicentaCosmic.app/Base.lproj/
+LicentaCosmic.app/Frameworks/
+2018-02-27 15:06:43 +0000  LicentaCosmic.app/_CodeSignature/
+LicentaCosmic.app/assets/
+LicentaCosmic.app/assets/node_modules/
+LicentaCosmic.app/assets/node_modules/react-native-router-flux/
+LicentaCosmic.app/assets/node_modules/react-native-router-flux/images/
+LicentaCosmic.app/assets/node_modules/react-navigation/
+LicentaCosmic.app/assets/node_modules/react-navigation/src/
+LicentaCosmic.app/assets/node_modules/react-navigation/src/views/
+LicentaCosmic.app/assets/node_modules/react-navigation/src/views/assets/
+LicentaCosmic.app/assets/resources/
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  sent 1.71K bytes  received 98 bytes  3.62K bytes/sec
+total size is 11.10M  speedup is 6275.42
+2018-02-27 15:06:43 +0000  2018-02-27 15:06:43 +0000  
+
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  2018-02-27 15:06:43 +0000  /usr/bin/rsync exited with 0
+2018-02-27 15:06:43 +0000  
+
+2018-02-27 15:06:43 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/user/Library/Developer/Xcode/Archives/2018-02-27/LicentaCosmic 27-02-2018, 17.03.xcarchive/dSYMs/' '--link-dest' '/Users/user/Library/Developer/Xcode/Archives/2018-02-27/LicentaCosmic 27-02-2018, 17.03.xcarchive/dSYMs/' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q'
+2018-02-27 15:06:43 +0000  building file list ... 
+2018-02-27 15:06:43 +0000   0 files...2018-02-27 15:06:43 +0000  7 files to consider
+2018-02-27 15:06:43 +0000  ./
+2018-02-27 15:06:43 +0000  LicentaCosmic.app.dSYM/
+LicentaCosmic.app.dSYM/Contents/
+2018-02-27 15:06:43 +0000  LicentaCosmic.app.dSYM/Contents/Resources/
+LicentaCosmic.app.dSYM/Contents/Resources/DWARF/
+2018-02-27 15:06:43 +0000  
+sent 249 bytes  received 50 bytes  598.00 bytes/sec
+total size is 7.16M  speedup is 25102.75
+2018-02-27 15:06:43 +0000  2018-02-27 15:06:43 +0000  
+
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  /usr/bin/rsync exited with 0
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  
+2018-02-27 15:06:43 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Symbols' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/LicentaCosmic.app.dSYM/Contents/Resources/Dwarf/LicentaCosmic'
+2018-02-27 15:06:44 +0000  /var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/LicentaCosmic.app.dSYM/Contents/Resources/Dwarf/LicentaCosmic [armv7, 0.207599 seconds]:
+/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/LicentaCosmic.app.dSYM/Contents/Resources/Dwarf/LicentaCosmic [arm64, 0.207599 seconds]:
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  
+2018-02-27 15:06:44 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2018-02-27 15:06:44 +0000  Processing step: IDEDistributionAppThinningStep
+2018-02-27 15:06:44 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2018-02-27 15:06:44 +0000  Processing step: IDEDistributionODRStep
+2018-02-27 15:06:44 +0000  Processing step: IDEDistributionStripXattrsStep
+2018-02-27 15:06:44 +0000  Running /usr/bin/xattr '-crs' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Root/Payload/LicentaCosmic.app'
+2018-02-27 15:06:44 +0000  2018-02-27 15:06:44 +0000  2018-02-27 15:06:44 +0000  /usr/bin/xattr exited with 0
+
+
+2018-02-27 15:06:44 +0000  Processing step: IDEDistributionCodesignStep
+2018-02-27 15:06:44 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fe7582beda0 'org.LicentaCosmic' '<DVTFilePath:0x7fe74344dbf0:'/Users/user/Library/Developer/Xcode/Archives/2018-02-27/LicentaCosmic 27-02-2018, 17.03.xcarchive/Products/Applications/LicentaCosmic.app'>'> from <IDEiCloudEntitlementsProcessor: 0x7fe7597bbbd0>: {
+}
+2018-02-27 15:06:44 +0000  Entitlements for <IDEDistributionItem: 0x7fe7582beda0 'org.LicentaCosmic' '<DVTFilePath:0x7fe74344dbf0:'/Users/user/Library/Developer/Xcode/Archives/2018-02-27/LicentaCosmic 27-02-2018, 17.03.xcarchive/Products/Applications/LicentaCosmic.app'>'>: {
+    "application-identifier" = "973M7H6VSD.org.LicentaCosmic";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 973M7H6VSD;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "973M7H6VSD.org.LicentaCosmic"
+    );
+}
+2018-02-27 15:06:44 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe7582beda0 'org.LicentaCosmic' '<DVTFilePath:0x7fe74344dbf0:'/Users/user/Library/Developer/Xcode/Archives/2018-02-27/LicentaCosmic 27-02-2018, 17.03.xcarchive/Products/Applications/LicentaCosmic.app'>'> to: /var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/entitlementsMtb5sB
+2018-02-27 15:06:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'B89738672CB2DDD537932518F106DA0AEDA222E9' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/entitlementsMtb5sB' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Root/Payload/LicentaCosmic.app'
+2018-02-27 15:06:45 +0000  /var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Root/Payload/LicentaCosmic.app: replacing existing signature
+2018-02-27 15:06:45 +0000  /var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Root/Payload/LicentaCosmic.app: signed app bundle with Mach-O universal (armv7 arm64) [org.LicentaCosmic]
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  2018-02-27 15:06:45 +0000  /usr/bin/codesign exited with 0
+
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  Processing step: IDEDistributionStreamingZipItemStep
+2018-02-27 15:06:45 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-02-27 15:06:45 +0000  Processing step: IDEDistributionCreateIPAStep
+2018-02-27 15:06:45 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Symbols' '--link-dest' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Root'
+2018-02-27 15:06:45 +0000  building file list ... 
+2018-02-27 15:06:45 +0000   0 files...2018-02-27 15:06:45 +0000  3 files to consider
+2018-02-27 15:06:45 +0000  Symbols/
+2018-02-27 15:06:45 +0000  
+sent 205 bytes  received 26 bytes  462.00 bytes/sec
+2018-02-27 15:06:45 +0000  total size is 4.67M  speedup is 21185.66
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  2018-02-27 15:06:45 +0000  /usr/bin/rsync exited with 0
+2018-02-27 15:06:45 +0000  
+
+2018-02-27 15:06:45 +0000  
+2018-02-27 15:06:45 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Root' '/var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Packages/LicentaCosmic.ipa'
+2018-02-27 15:06:45 +0000  >>> Copying /var/folders/3r/rrxct4ms5kb5v4fxmnl8hr440000gn/T/XcodeDistPipeline.p6q/Root 
+2018-02-27 15:06:45 +0000  copying file ./Payload/LicentaCosmic.app/_CodeSignature/CodeResources ... 
+2018-02-27 15:06:45 +0000  18113 bytes for ./Payload/LicentaCosmic.app/_CodeSignature/CodeResources
+2018-02-27 15:06:45 +0000  copying file ./Payload/LicentaCosmic.app/Octicons.ttf ... 
+2018-02-27 15:06:45 +0000  27512 bytes for ./Payload/LicentaCosmic.app/Octicons.ttf
+2018-02-27 15:06:45 +0000  copying file ./Payload/LicentaCosmic.app/Feather.ttf ... 
+2018-02-27 15:06:45 +0000  55288 bytes for ./Payload/LicentaCosmic.app/Feather.ttf
+2018-02-27 15:06:45 +0000  copying file ./Payload/LicentaCosmic.app/Entypo.ttf ... 
+2018-02-27 15:06:45 +0000  65584 bytes for ./Payload/LicentaCosmic.app/Entypo.ttf
+2018-02-27 15:06:45 +0000  copying file ./Payload/LicentaCosmic.app/MaterialCommunityIcons.ttf ... 
+2018-02-27 15:06:45 +0000  302940 bytes for ./Payload/LicentaCosmic.app/MaterialCommunityIcons.ttf
+copying file ./Payload/LicentaCosmic.app/LicentaCosmic ... 
+2018-02-27 15:06:46 +0000  9422752 bytes for ./Payload/LicentaCosmic.app/LicentaCosmic
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/Foundation.ttf ... 
+2018-02-27 15:06:46 +0000  56976 bytes for ./Payload/LicentaCosmic.app/Foundation.ttf
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/Ionicons.ttf ... 
+2018-02-27 15:06:46 +0000  143936 bytes for ./Payload/LicentaCosmic.app/Ionicons.ttf
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/Base.lproj/LaunchScreen.nib ... 
+2018-02-27 15:06:46 +0000  3108 bytes for ./Payload/LicentaCosmic.app/Base.lproj/LaunchScreen.nib
+copying file ./Payload/LicentaCosmic.app/FontAwesome.ttf ... 
+2018-02-27 15:06:46 +0000  165548 bytes for ./Payload/LicentaCosmic.app/FontAwesome.ttf
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/archived-expanded-entitlements.xcent ... 
+372 bytes for ./Payload/LicentaCosmic.app/archived-expanded-entitlements.xcent
+copying file ./Payload/LicentaCosmic.app/Zocial.ttf ... 
+2018-02-27 15:06:46 +0000  25552 bytes for ./Payload/LicentaCosmic.app/Zocial.ttf
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/main.jsbundle.meta ... 
+21 bytes for ./Payload/LicentaCosmic.app/main.jsbundle.meta
+copying file ./Payload/LicentaCosmic.app/EvilIcons.ttf ... 
+2018-02-27 15:06:46 +0000  13128 bytes for ./Payload/LicentaCosmic.app/EvilIcons.ttf
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/main.jsbundle ... 
+2018-02-27 15:06:46 +0000  964194 bytes for ./Payload/LicentaCosmic.app/main.jsbundle
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/SimpleLineIcons.ttf ... 
+2018-02-27 15:06:46 +0000  54056 bytes for ./Payload/LicentaCosmic.app/SimpleLineIcons.ttf
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/embedded.mobileprovision ... 
+2018-02-27 15:06:46 +0000  7483 bytes for ./Payload/LicentaCosmic.app/embedded.mobileprovision
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/resources/StarEmpty.png ... 
+2018-02-27 15:06:46 +0000  3994 bytes for ./Payload/LicentaCosmic.app/assets/resources/StarEmpty.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/hungary.png ... 
+2018-02-27 15:06:46 +0000  243 bytes for ./Payload/LicentaCosmic.app/assets/resources/hungary.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/pisces.png ... 
+2018-02-27 15:06:46 +0000  1331 bytes for ./Payload/LicentaCosmic.app/assets/resources/pisces.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/snowflake.png ... 
+2018-02-27 15:06:46 +0000  11230 bytes for ./Payload/LicentaCosmic.app/assets/resources/snowflake.png
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/resources/newspaper.png ... 
+2018-02-27 15:06:46 +0000  9557 bytes for ./Payload/LicentaCosmic.app/assets/resources/newspaper.png
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/resources/newsicon.png ... 
+2018-02-27 15:06:46 +0000  3105 bytes for ./Payload/LicentaCosmic.app/assets/resources/newsicon.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/libra.png ... 
+2018-02-27 15:06:46 +0000  1039 bytes for ./Payload/LicentaCosmic.app/assets/resources/libra.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/aries.png ... 
+2018-02-27 15:06:46 +0000  1266 bytes for ./Payload/LicentaCosmic.app/assets/resources/aries.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/StarFull.png ... 
+2018-02-27 15:06:46 +0000  4927 bytes for ./Payload/LicentaCosmic.app/assets/resources/StarFull.png
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/resources/sagittarius.png ... 
+2018-02-27 15:06:46 +0000  1164 bytes for ./Payload/LicentaCosmic.app/assets/resources/sagittarius.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/leo.png ... 
+2018-02-27 15:06:46 +0000  1483 bytes for ./Payload/LicentaCosmic.app/assets/resources/leo.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/sunrise.png ... 
+2018-02-27 15:06:46 +0000  2540 bytes for ./Payload/LicentaCosmic.app/assets/resources/sunrise.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/aquarius.png ... 
+2018-02-27 15:06:46 +0000  1498 bytes for ./Payload/LicentaCosmic.app/assets/resources/aquarius.png
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/resources/gemini.png ... 
+2018-02-27 15:06:46 +0000  1090 bytes for ./Payload/LicentaCosmic.app/assets/resources/gemini.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/capricorn.png ... 
+2018-02-27 15:06:46 +0000  1742 bytes for ./Payload/LicentaCosmic.app/assets/resources/capricorn.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/united-kingdom.png ... 
+2018-02-27 15:06:46 +0000  1751 bytes for ./Payload/LicentaCosmic.app/assets/resources/united-kingdom.png
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/resources/sunCloud.png ... 
+2018-02-27 15:06:46 +0000  7766 bytes for ./Payload/LicentaCosmic.app/assets/resources/sunCloud.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/cancer.png ... 
+2018-02-27 15:06:46 +0000  1437 bytes for ./Payload/LicentaCosmic.app/assets/resources/cancer.png
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/resources/cloudy.png ... 
+2018-02-27 15:06:46 +0000  3088 bytes for ./Payload/LicentaCosmic.app/assets/resources/cloudy.png
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/resources/virgo.png ... 
+2018-02-27 15:06:46 +0000  1421 bytes for ./Payload/LicentaCosmic.app/assets/resources/virgo.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/magnifying-glass-icon.png ... 
+2018-02-27 15:06:46 +0000  2726 bytes for ./Payload/LicentaCosmic.app/assets/resources/magnifying-glass-icon.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/taurus.png ... 
+2018-02-27 15:06:46 +0000  1367 bytes for ./Payload/LicentaCosmic.app/assets/resources/taurus.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/sun.png ... 
+2018-02-27 15:06:46 +0000  4207 bytes for ./Payload/LicentaCosmic.app/assets/resources/sun.png
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/resources/pressHeader.png ... 
+2018-02-27 15:06:46 +0000  98741 bytes for ./Payload/LicentaCosmic.app/assets/resources/pressHeader.png
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/resources/facebook.png ... 
+607 bytes for ./Payload/LicentaCosmic.app/assets/resources/facebook.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/scorpio.png ... 
+2018-02-27 15:06:46 +0000  1273 bytes for ./Payload/LicentaCosmic.app/assets/resources/scorpio.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/sunset.png ... 
+2018-02-27 15:06:46 +0000  2559 bytes for ./Payload/LicentaCosmic.app/assets/resources/sunset.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/european-union.png ... 
+2018-02-27 15:06:46 +0000  861 bytes for ./Payload/LicentaCosmic.app/assets/resources/european-union.png
+copying file ./Payload/LicentaCosmic.app/assets/resources/united-states.png ... 
+2018-02-27 15:06:46 +0000  1268 bytes for ./Payload/LicentaCosmic.app/assets/resources/united-states.png
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/node_modules/react-native-router-flux/images/menu_burger.png ... 
+2018-02-27 15:06:46 +0000  706 bytes for ./Payload/LicentaCosmic.app/assets/node_modules/react-native-router-flux/images/menu_burger.png
+copying file ./Payload/LicentaCosmic.app/assets/node_modules/react-native-router-flux/images/back_chevron.png ... 
+2018-02-27 15:06:46 +0000  575 bytes for ./Payload/LicentaCosmic.app/assets/node_modules/react-native-router-flux/images/back_chevron.png
+2018-02-27 15:06:46 +0000  copying file ./Payload/LicentaCosmic.app/assets/node_modules/react-navigation/src/views/assets/back-icon@3x.png ... 
+2018-02-27 15:06:46 +0000  732 bytes for ./Payload/LicentaCosmic.app/assets/node_modules/react-navigation/src/views/assets/back-icon@3x.png
+copying file ./Payload/LicentaCosmic.app/assets/node_modules/react-navigation/src/views/assets/back-icon@2x.png ... 
+2018-02-27 15:06:46 +0000  534 bytes for ./Payload/LicentaCosmic.app/assets/node_modules/react-navigation/src/views/assets/back-icon@2x.png
+copying file ./Payload/LicentaCosmic.app/assets/node_modules/react-navigation/src/views/assets/back-icon.png ... 
+2018-02-27 15:06:46 +0000  379 bytes for ./Payload/LicentaCosmic.app/assets/node_modules/react-navigation/src/views/assets/back-icon.png
+copying file ./Payload/LicentaCosmic.app/Info.plist ... 
+2018-02-27 15:06:46 +0000  1672 bytes for ./Payload/LicentaCosmic.app/Info.plist
+copying file ./Payload/LicentaCosmic.app/PkgInfo ... 
+2018-02-27 15:06:46 +0000  8 bytes for ./Payload/LicentaCosmic.app/PkgInfo
+copying file ./Payload/LicentaCosmic.app/MaterialIcons.ttf ... 
+2018-02-27 15:06:46 +0000  128180 bytes for ./Payload/LicentaCosmic.app/MaterialIcons.ttf
+2018-02-27 15:06:46 +0000  copying file ./Symbols/E96636E8-60DB-3B5D-BF86-DF48370688EC.symbols ... 
+2018-02-27 15:06:46 +0000  2636216 bytes for ./Symbols/E96636E8-60DB-3B5D-BF86-DF48370688EC.symbols
+2018-02-27 15:06:46 +0000  copying file ./Symbols/420D1CC5-0DAA-3EE9-B49E-62D6C9A9B892.symbols ... 
+2018-02-27 15:06:46 +0000  2257672 bytes for ./Symbols/420D1CC5-0DAA-3EE9-B49E-62D6C9A9B892.symbols
+2018-02-27 15:06:46 +0000  2018-02-27 15:06:46 +0000  
+
+2018-02-27 15:06:46 +0000  /usr/bin/ditto exited with 0
+2018-02-27 15:06:46 +0000  
+2018-02-27 15:06:46 +0000  
+2018-02-27 15:06:46 +0000  Processing step: IDEDistributionCreateManifestStep
+2018-02-27 15:06:46 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

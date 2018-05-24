@@ -1,19 +1,35 @@
 import React, { Component } from 'react';
 import { View, Text, Image, TouchableOpacity } from 'react-native';
+import { Actions } from 'react-native-router-flux';
+import { getWeather } from '../../actions';
+import { connect } from 'react-redux';
 
 
 class Header extends Component {
-
-    render() {
-        const { textStyle1, textStyle2, viewStyle } = styles;
-
+     constructor(props) {
+        super(props);
+    }
+    render(props) {
+        const { textStyle1, textStyle2, viewStyle,imageStyle } = styles;
+        console.log('iMAGE',this.props.image)
         return (
+
             <View style={viewStyle}>
-                <Text style={textStyle1}> Press</Text>
-                <Text style={textStyle2}>Alert</Text>
-                <Text style={textStyle1}> .ro</Text>
-                <Image style={{ width: 40, height: 40, marginLeft: 5 }} source={require('../../../resources/pressHeader.png')} />
+             
+                <Image style={imageStyle} source={{uri:this.props.image}} />  
+                <TouchableOpacity 
+                onPress={() => {
+                    Actions.WeatherWidget()
+                    this.props.getWeather()
+                }}
+                    style={{ position: 'absolute', top: 15, right: 0, alignSelf: 'center' }}
+                >
+                
+                    <Image style={{ justifyContent: 'space-around', width: 35, height: 35, }} source={require('../../../resources/cloudy.png')} />
+                    <Text style={{ right: 8 }}>Weather</Text>
+                </TouchableOpacity>
             </View>
+
         );
     }
 };
@@ -26,12 +42,10 @@ const styles = {
         height: 70,
         paddingTop: 15,
         shadowColor: '#000000',
-        shadowOffset: { width: 0, height: 3 },
-        shadowOpacity: 0.3,
+        shadowOffset: { width: 0, height: 2 },
+        shadowOpacity: 0.2,
         position: 'relative',
         elevation: 2,
-        flexDirection: 'row',
-        marginBottom:10
 
 
     },
@@ -44,6 +58,10 @@ const styles = {
         fontSize: 30,
         fontWeight: 'bold',
         color: '#FEDC32',
+    },
+    imageStyle:{
+        width:150,
+        height:50
     }
 };
-export default Header;
+export default connect(null, { getWeather })(Header)
